@@ -11,9 +11,9 @@ st.set_page_config(
     page_icon="virus:",
 )
 
-GOOGLE_API_KEY = os.getenv("AIzaSyAyn8S0lG2CVhFbrdYaV9QdbKxu4TID4E0")
+GOOGLE_API_KEY = os.getenv("your api key")
 
-genai.configure(api_key="AIzaSyAyn8S0lG2CVhFbrdYaV9QdbKxu4TID4E0")
+genai.configure(api_key="your api key")
 model = genai.GenerativeModel('models/gemini-1.5-flash-latest')
 
 
