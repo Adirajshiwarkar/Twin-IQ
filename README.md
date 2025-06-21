@@ -145,11 +145,9 @@ MIT License
 
 Feel free to fork, extend, or integrate weather/news APIs. PRs are welcome!
 
----
+--
 
-## 📸 UI Preview
 
-> (Add a screenshot of the interface here if needed)
 
 ---
 
